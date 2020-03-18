@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/florinhangan/Documents/faculty/doorbell/app/build/intermediates/res/merged/debug/raw_doorbell.wav.flat",
+        "source": "/Users/florinhangan/Documents/faculty/doorbell/app/src/main/res/raw/doorbell.wav"
+    },
+    {
+        "merged": "/Users/florinhangan/Documents/faculty/doorbell/app/build/intermediates/res/merged/debug/raw_afacerea.wav.flat",
+        "source": "/Users/florinhangan/Documents/faculty/doorbell/app/src/main/res/raw/afacerea.wav"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112059003419",
+    "firebase_url": "https://doorbell-e5167.firebaseio.com",
+    "project_id": "doorbell-e5167",
+    "storage_bucket": "doorbell-e5167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112059003419:android:4f07b2fb8c4ffde8",
+        "android_client_info": {
+          "package_name": "com.example.androidthings.doorbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112059003419-tj6gdr0ga2v3doru5jbigc9uv21259h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyC9D2aLPnuTpu5nathdHbOUvNmbTf_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112059003419-tj6gdr0ga2v3doru5jbigc9uv21259h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/florinhangan/Documents/faculty/doorbell/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/florinhangan/Documents/faculty/doorbell/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "173",
+                        "endColumns": "49",
+                        "endOffsets": "218"
+                    }
+                },
+                {
+                    "source": "/Users/florinhangan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/23da350a1908bc493fe1a66c66a8de54/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,223",
+                        "endColumns": "67,166",
+                        "endOffsets": "168,385"
+                    }
+                },
+                {
+                    "source": "/Users/florinhangan/Documents/faculty/doorbell/app/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,308,390,494,597,717",
+                        "endColumns": "143,108,81,103,102,119,97",
+                        "endOffsets": "194,303,385,489,592,712,810"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "390,534,643,725,829,932,1052",
+                        "endColumns": "143,108,81,103,102,119,97",
+                        "endOffsets": "529,638,720,824,927,1047,1145"
+                    }
+                }
+            ]
+        }
+    ]
+}
